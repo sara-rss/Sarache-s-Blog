@@ -1,5 +1,6 @@
 # Sarache-s-Blog
 Funzionalità dell'applicazione web:
+
 Una volta effettuato l’accesso all’applicazione web, gli utenti standard possono creare fino a due blog, ciascuno associato a una categoria specifica. Se lo desiderano, possono nominare un coautore per ogni blog. Gli utenti premium, invece, possono creare un numero illimitato di blog, scegliere il font preferito per i loro post e utilizzare badge nei commenti. Per passare da utente standard a premium, è necessario inserire i dati della carta di credito in un'apposita sezione.
 In ciascun blog, gli utenti possono pubblicare un numero illimitato di post, modificare o eliminare i propri contenuti. I coautori hanno la possibilità di pubblicare solo nei blog di cui sono stati nominati coautori.
 
